@@ -1,1 +1,2 @@
-# Infinite-Runner
+# MatterJSBoilerPlate
+MatterJSBoilerPlate
